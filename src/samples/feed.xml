@@ -1,0 +1,575 @@
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:mohiohio="https://mohiohio.com/rss">
+  <channel>
+    <title>Dawn Chorus</title>
+    <link>https://chorus.mohiohio.com/</link>
+    <language>en-us</language>
+    <itunes:author>Tim Field</itunes:author>
+    <description>New Zealand bird song recorded at sunrise each day</description>
+    <itunes:owner>
+      <itunes:name>Tim Field</itunes:name>
+      <itunes:email>tim@mohiohio.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://chorus.mohiohio.com/images/pic-2023-07-16T08-30-46.jpg"/>
+    <itunes:category text="Science">
+      <itunes:category text="Nature"/>
+    </itunes:category>
+    <itunes:explicit>clean</itunes:explicit>
+    <atom:link href="https://chorus.mohiohio.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Upper Waitati at 07:40am on July 16, 2023</title>
+      <description>New Zealand birdsong recorded at 07:40am on July 16, 2023</description>
+      <enclosure length="51251238" type="audio/ogg" url="https://chorus.mohiohio.com/audio/capture-2023-07-16T07-40-01.opus"/>
+      <pubDate>Sun, 16 Jul 2023 07:40:01 +1200</pubDate>
+      <itunes:image href="https://chorus.mohiohio.com/images/pic-2023-07-16T07-40-01.jpg"/>
+      <guid>https://chorus.mohiohio.com/audio/capture-2023-07-16T07-40-01.opus</guid>
+      <mohiohio:images>
+        <mohiohio:image date="2023-07-16T07:40:01+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-16T07-40-01.jpg"/>
+        <mohiohio:image date="2023-07-16T07:50:10+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-16T07-50-10.jpg"/>
+        <mohiohio:image date="2023-07-16T08:00:19+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-16T08-00-19.jpg"/>
+        <mohiohio:image date="2023-07-16T08:10:28+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-16T08-10-28.jpg"/>
+        <mohiohio:image date="2023-07-16T08:20:37+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-16T08-20-37.jpg"/>
+        <mohiohio:image date="2023-07-16T08:30:46+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-16T08-30-46.jpg"/>
+      </mohiohio:images>
+    </item>
+    <item>
+      <title>Upper Waitati at 07:41am on July 15, 2023</title>
+      <description>New Zealand birdsong recorded at 07:41am on July 15, 2023</description>
+      <enclosure length="50693929" type="audio/ogg" url="https://chorus.mohiohio.com/audio/capture-2023-07-15T07-41-01.opus"/>
+      <pubDate>Sat, 15 Jul 2023 07:41:01 +1200</pubDate>
+      <itunes:image href="https://chorus.mohiohio.com/images/pic-2023-07-15T07-41-01.jpg"/>
+      <guid>https://chorus.mohiohio.com/audio/capture-2023-07-15T07-41-01.opus</guid>
+      <mohiohio:images>
+        <mohiohio:image date="2023-07-15T07:41:01+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-15T07-41-01.jpg"/>
+        <mohiohio:image date="2023-07-15T07:51:11+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-15T07-51-11.jpg"/>
+        <mohiohio:image date="2023-07-15T08:01:20+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-15T08-01-20.jpg"/>
+        <mohiohio:image date="2023-07-15T08:11:29+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-15T08-11-29.jpg"/>
+        <mohiohio:image date="2023-07-15T08:21:37+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-15T08-21-37.jpg"/>
+        <mohiohio:image date="2023-07-15T08:31:46+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-15T08-31-46.jpg"/>
+      </mohiohio:images>
+    </item>
+    <item>
+      <title>Upper Waitati at 07:42am on July 13, 2023</title>
+      <description>New Zealand birdsong recorded at 07:42am on July 13, 2023</description>
+      <enclosure length="52218433" type="audio/ogg" url="https://chorus.mohiohio.com/audio/capture-2023-07-13T07-42-01.opus"/>
+      <pubDate>Thu, 13 Jul 2023 07:42:01 +1200</pubDate>
+      <itunes:image href="https://chorus.mohiohio.com/images/pic-2023-07-13T07-42-01.jpg"/>
+      <guid>https://chorus.mohiohio.com/audio/capture-2023-07-13T07-42-01.opus</guid>
+      <mohiohio:images>
+        <mohiohio:image date="2023-07-13T07:42:01+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-13T07-42-01.jpg"/>
+        <mohiohio:image date="2023-07-13T07:52:11+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-13T07-52-11.jpg"/>
+        <mohiohio:image date="2023-07-13T08:02:20+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-13T08-02-20.jpg"/>
+        <mohiohio:image date="2023-07-13T08:12:28+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-13T08-12-28.jpg"/>
+        <mohiohio:image date="2023-07-13T08:22:37+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-13T08-22-37.jpg"/>
+        <mohiohio:image date="2023-07-13T08:32:46+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-13T08-32-46.jpg"/>
+      </mohiohio:images>
+    </item>
+    <item>
+      <title>Upper Waitati at 07:42am on July 12, 2023</title>
+      <description>New Zealand birdsong recorded at 07:42am on July 12, 2023</description>
+      <enclosure length="51051098" type="audio/ogg" url="https://chorus.mohiohio.com/audio/capture-2023-07-12T07-42-01.opus"/>
+      <pubDate>Wed, 12 Jul 2023 07:42:01 +1200</pubDate>
+      <itunes:image href="https://chorus.mohiohio.com/images/pic-2023-07-12T07-42-01.jpg"/>
+      <guid>https://chorus.mohiohio.com/audio/capture-2023-07-12T07-42-01.opus</guid>
+      <mohiohio:images>
+        <mohiohio:image date="2023-07-12T07:42:01+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-12T07-42-01.jpg"/>
+        <mohiohio:image date="2023-07-12T07:52:11+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-12T07-52-11.jpg"/>
+        <mohiohio:image date="2023-07-12T08:02:20+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-12T08-02-20.jpg"/>
+        <mohiohio:image date="2023-07-12T08:12:29+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-12T08-12-29.jpg"/>
+        <mohiohio:image date="2023-07-12T08:22:38+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-12T08-22-38.jpg"/>
+        <mohiohio:image date="2023-07-12T08:32:47+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-12T08-32-47.jpg"/>
+      </mohiohio:images>
+    </item>
+    <item>
+      <title>Upper Waitati at 07:43am on July 11, 2023</title>
+      <description>New Zealand birdsong recorded at 07:43am on July 11, 2023</description>
+      <enclosure length="51247079" type="audio/ogg" url="https://chorus.mohiohio.com/audio/capture-2023-07-11T07-43-01.opus"/>
+      <pubDate>Tue, 11 Jul 2023 07:43:01 +1200</pubDate>
+      <itunes:image href="https://chorus.mohiohio.com/images/pic-2023-07-11T07-43-01.jpg"/>
+      <guid>https://chorus.mohiohio.com/audio/capture-2023-07-11T07-43-01.opus</guid>
+      <mohiohio:images>
+        <mohiohio:image date="2023-07-11T07:43:01+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-11T07-43-01.jpg"/>
+        <mohiohio:image date="2023-07-11T07:53:10+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-11T07-53-10.jpg"/>
+        <mohiohio:image date="2023-07-11T08:03:19+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-11T08-03-19.jpg"/>
+        <mohiohio:image date="2023-07-11T08:13:28+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-11T08-13-28.jpg"/>
+        <mohiohio:image date="2023-07-11T08:23:37+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-11T08-23-37.jpg"/>
+        <mohiohio:image date="2023-07-11T08:33:46+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-11T08-33-46.jpg"/>
+      </mohiohio:images>
+    </item>
+    <item>
+      <title>Upper Waitati at 07:44am on July 8, 2023</title>
+      <description>New Zealand birdsong recorded at 07:44am on July 8, 2023</description>
+      <enclosure length="51461072" type="audio/ogg" url="https://chorus.mohiohio.com/audio/capture-2023-07-08T07-44-01.opus"/>
+      <pubDate>Sat, 08 Jul 2023 07:44:01 +1200</pubDate>
+      <itunes:image href="https://chorus.mohiohio.com/images/pic-2023-07-08T07-44-01.jpg"/>
+      <guid>https://chorus.mohiohio.com/audio/capture-2023-07-08T07-44-01.opus</guid>
+      <mohiohio:images>
+        <mohiohio:image date="2023-07-08T07:44:01+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-08T07-44-01.jpg"/>
+        <mohiohio:image date="2023-07-08T07:54:10+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-08T07-54-10.jpg"/>
+        <mohiohio:image date="2023-07-08T08:04:19+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-08T08-04-19.jpg"/>
+        <mohiohio:image date="2023-07-08T08:14:28+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-08T08-14-28.jpg"/>
+        <mohiohio:image date="2023-07-08T08:24:37+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-08T08-24-37.jpg"/>
+        <mohiohio:image date="2023-07-08T08:34:45+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-08T08-34-45.jpg"/>
+      </mohiohio:images>
+    </item>
+    <item>
+      <title>Upper Waitati at 07:44am on July 7, 2023</title>
+      <description>New Zealand birdsong recorded at 07:44am on July 7, 2023</description>
+      <enclosure length="51526780" type="audio/ogg" url="https://chorus.mohiohio.com/audio/capture-2023-07-07T07-44-01.opus"/>
+      <pubDate>Fri, 07 Jul 2023 07:44:01 +1200</pubDate>
+      <itunes:image href="https://chorus.mohiohio.com/images/pic-2023-07-07T07-44-01.jpg"/>
+      <guid>https://chorus.mohiohio.com/audio/capture-2023-07-07T07-44-01.opus</guid>
+      <mohiohio:images>
+        <mohiohio:image date="2023-07-07T07:44:01+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-07T07-44-01.jpg"/>
+        <mohiohio:image date="2023-07-07T07:54:11+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-07T07-54-11.jpg"/>
+        <mohiohio:image date="2023-07-07T08:04:20+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-07T08-04-20.jpg"/>
+        <mohiohio:image date="2023-07-07T08:14:29+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-07T08-14-29.jpg"/>
+        <mohiohio:image date="2023-07-07T08:24:38+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-07T08-24-38.jpg"/>
+        <mohiohio:image date="2023-07-07T08:34:46+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-07T08-34-46.jpg"/>
+      </mohiohio:images>
+    </item>
+    <item>
+      <title>Upper Waitati at 07:45am on July 6, 2023</title>
+      <description>New Zealand birdsong recorded at 07:45am on July 6, 2023</description>
+      <enclosure length="51312766" type="audio/ogg" url="https://chorus.mohiohio.com/audio/capture-2023-07-06T07-45-02.opus"/>
+      <pubDate>Thu, 06 Jul 2023 07:45:02 +1200</pubDate>
+      <itunes:image href="https://chorus.mohiohio.com/images/pic-2023-07-06T07-45-02.jpg"/>
+      <guid>https://chorus.mohiohio.com/audio/capture-2023-07-06T07-45-02.opus</guid>
+      <mohiohio:images>
+        <mohiohio:image date="2023-07-06T07:45:02+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-06T07-45-02.jpg"/>
+        <mohiohio:image date="2023-07-06T07:55:11+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-06T07-55-11.jpg"/>
+        <mohiohio:image date="2023-07-06T08:05:20+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-06T08-05-20.jpg"/>
+        <mohiohio:image date="2023-07-06T08:15:29+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-06T08-15-29.jpg"/>
+        <mohiohio:image date="2023-07-06T08:25:38+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-06T08-25-38.jpg"/>
+        <mohiohio:image date="2023-07-06T08:35:46+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-06T08-35-46.jpg"/>
+      </mohiohio:images>
+    </item>
+    <item>
+      <title>Upper Waitati at 07:45am on July 5, 2023</title>
+      <description>New Zealand birdsong recorded at 07:45am on July 5, 2023</description>
+      <enclosure length="51633322" type="audio/ogg" url="https://chorus.mohiohio.com/audio/capture-2023-07-05T07-45-02.opus"/>
+      <pubDate>Wed, 05 Jul 2023 07:45:02 +1200</pubDate>
+      <itunes:image href="https://chorus.mohiohio.com/images/pic-2023-07-05T07-45-02.jpg"/>
+      <guid>https://chorus.mohiohio.com/audio/capture-2023-07-05T07-45-02.opus</guid>
+      <mohiohio:images>
+        <mohiohio:image date="2023-07-05T07:45:02+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-05T07-45-02.jpg"/>
+        <mohiohio:image date="2023-07-05T07:55:11+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-05T07-55-11.jpg"/>
+        <mohiohio:image date="2023-07-05T08:05:20+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-05T08-05-20.jpg"/>
+        <mohiohio:image date="2023-07-05T08:15:29+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-05T08-15-29.jpg"/>
+        <mohiohio:image date="2023-07-05T08:25:38+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-05T08-25-38.jpg"/>
+        <mohiohio:image date="2023-07-05T08:35:46+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-05T08-35-46.jpg"/>
+      </mohiohio:images>
+    </item>
+    <item>
+      <title>Upper Waitati at 07:45am on July 1, 2023</title>
+      <description>New Zealand birdsong recorded at 07:45am on July 1, 2023</description>
+      <enclosure length="50952215" type="audio/ogg" url="https://chorus.mohiohio.com/audio/capture-2023-07-01T07-45-01.opus"/>
+      <pubDate>Sat, 01 Jul 2023 07:45:01 +1200</pubDate>
+      <itunes:image href="https://chorus.mohiohio.com/images/pic-2023-07-01T07-45-01.jpg"/>
+      <guid>https://chorus.mohiohio.com/audio/capture-2023-07-01T07-45-01.opus</guid>
+      <mohiohio:images>
+        <mohiohio:image date="2023-07-01T07:45:01+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-01T07-45-01.jpg"/>
+        <mohiohio:image date="2023-07-01T07:55:10+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-01T07-55-10.jpg"/>
+        <mohiohio:image date="2023-07-01T08:05:19+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-01T08-05-19.jpg"/>
+        <mohiohio:image date="2023-07-01T08:15:28+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-01T08-15-28.jpg"/>
+        <mohiohio:image date="2023-07-01T08:25:37+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-01T08-25-37.jpg"/>
+        <mohiohio:image date="2023-07-01T08:35:46+12:00" href="https://chorus.mohiohio.com/images/pic-2023-07-01T08-35-46.jpg"/>
+      </mohiohio:images>
+    </item>
+    <item>
+      <title>Upper Waitati at 07:43am on June 18, 2023</title>
+      <description>New Zealand birdsong recorded at 07:43am on June 18, 2023</description>
+      <enclosure length="51272601" type="audio/ogg" url="https://chorus.mohiohio.com/audio/capture-2023-06-18T07-43-01.opus"/>
+      <pubDate>Sun, 18 Jun 2023 07:43:01 +1200</pubDate>
+      <itunes:image href="https://chorus.mohiohio.com/images/pic-2023-06-18T07-43-01.jpg"/>
+      <guid>https://chorus.mohiohio.com/audio/capture-2023-06-18T07-43-01.opus</guid>
+      <mohiohio:images>
+        <mohiohio:image date="2023-06-18T07:43:01+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-18T07-43-01.jpg"/>
+        <mohiohio:image date="2023-06-18T07:53:10+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-18T07-53-10.jpg"/>
+        <mohiohio:image date="2023-06-18T08:03:19+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-18T08-03-19.jpg"/>
+        <mohiohio:image date="2023-06-18T08:13:28+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-18T08-13-28.jpg"/>
+        <mohiohio:image date="2023-06-18T08:23:37+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-18T08-23-37.jpg"/>
+        <mohiohio:image date="2023-06-18T08:33:46+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-18T08-33-46.jpg"/>
+      </mohiohio:images>
+    </item>
+    <item>
+      <title>Upper Waitati at 07:43am on June 16, 2023</title>
+      <description>New Zealand birdsong recorded at 07:43am on June 16, 2023</description>
+      <enclosure length="52580352" type="audio/ogg" url="https://chorus.mohiohio.com/audio/capture-2023-06-16T07-43-01.opus"/>
+      <pubDate>Fri, 16 Jun 2023 07:43:01 +1200</pubDate>
+      <itunes:image href="https://chorus.mohiohio.com/images/pic-2023-06-16T07-43-01.jpg"/>
+      <guid>https://chorus.mohiohio.com/audio/capture-2023-06-16T07-43-01.opus</guid>
+      <mohiohio:images>
+        <mohiohio:image date="2023-06-16T07:43:01+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-16T07-43-01.jpg"/>
+        <mohiohio:image date="2023-06-16T07:53:10+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-16T07-53-10.jpg"/>
+        <mohiohio:image date="2023-06-16T08:03:19+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-16T08-03-19.jpg"/>
+        <mohiohio:image date="2023-06-16T08:13:28+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-16T08-13-28.jpg"/>
+        <mohiohio:image date="2023-06-16T08:23:37+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-16T08-23-37.jpg"/>
+        <mohiohio:image date="2023-06-16T08:33:46+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-16T08-33-46.jpg"/>
+      </mohiohio:images>
+    </item>
+    <item>
+      <title>Upper Waitati at 07:42am on June 15, 2023</title>
+      <description>New Zealand birdsong recorded at 07:42am on June 15, 2023</description>
+      <enclosure length="53490790" type="audio/ogg" url="https://chorus.mohiohio.com/audio/capture-2023-06-15T07-42-01.opus"/>
+      <pubDate>Thu, 15 Jun 2023 07:42:01 +1200</pubDate>
+      <itunes:image href="https://chorus.mohiohio.com/images/pic-2023-06-15T07-42-01.jpg"/>
+      <guid>https://chorus.mohiohio.com/audio/capture-2023-06-15T07-42-01.opus</guid>
+      <mohiohio:images>
+        <mohiohio:image date="2023-06-15T07:42:01+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-15T07-42-01.jpg"/>
+        <mohiohio:image date="2023-06-15T07:52:11+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-15T07-52-11.jpg"/>
+        <mohiohio:image date="2023-06-15T08:02:20+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-15T08-02-20.jpg"/>
+        <mohiohio:image date="2023-06-15T08:12:29+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-15T08-12-29.jpg"/>
+        <mohiohio:image date="2023-06-15T08:22:38+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-15T08-22-38.jpg"/>
+        <mohiohio:image date="2023-06-15T08:32:46+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-15T08-32-46.jpg"/>
+      </mohiohio:images>
+    </item>
+    <item>
+      <title>Upper Waitati at 07:41am on June 13, 2023</title>
+      <description>New Zealand birdsong recorded at 07:41am on June 13, 2023</description>
+      <enclosure length="51805549" type="audio/ogg" url="https://chorus.mohiohio.com/audio/capture-2023-06-13T07-41-01.opus"/>
+      <pubDate>Tue, 13 Jun 2023 07:41:01 +1200</pubDate>
+      <itunes:image href="https://chorus.mohiohio.com/images/pic-2023-06-13T07-41-01.jpg"/>
+      <guid>https://chorus.mohiohio.com/audio/capture-2023-06-13T07-41-01.opus</guid>
+      <mohiohio:images>
+        <mohiohio:image date="2023-06-13T07:41:01+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-13T07-41-01.jpg"/>
+        <mohiohio:image date="2023-06-13T07:51:10+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-13T07-51-10.jpg"/>
+        <mohiohio:image date="2023-06-13T08:01:19+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-13T08-01-19.jpg"/>
+        <mohiohio:image date="2023-06-13T08:11:28+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-13T08-11-28.jpg"/>
+        <mohiohio:image date="2023-06-13T08:21:37+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-13T08-21-37.jpg"/>
+        <mohiohio:image date="2023-06-13T08:31:45+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-13T08-31-45.jpg"/>
+      </mohiohio:images>
+    </item>
+    <item>
+      <title>Upper Waitati at 07:40am on June 11, 2023</title>
+      <description>New Zealand birdsong recorded at 07:40am on June 11, 2023</description>
+      <enclosure length="53432598" type="audio/ogg" url="https://chorus.mohiohio.com/audio/capture-2023-06-11T07-40-01.opus"/>
+      <pubDate>Sun, 11 Jun 2023 07:40:01 +1200</pubDate>
+      <itunes:image href="https://chorus.mohiohio.com/images/pic-2023-06-11T07-40-01.jpg"/>
+      <guid>https://chorus.mohiohio.com/audio/capture-2023-06-11T07-40-01.opus</guid>
+      <mohiohio:images>
+        <mohiohio:image date="2023-06-11T07:40:01+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-11T07-40-01.jpg"/>
+        <mohiohio:image date="2023-06-11T07:50:11+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-11T07-50-11.jpg"/>
+        <mohiohio:image date="2023-06-11T08:00:20+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-11T08-00-20.jpg"/>
+        <mohiohio:image date="2023-06-11T08:10:29+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-11T08-10-29.jpg"/>
+        <mohiohio:image date="2023-06-11T08:20:38+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-11T08-20-38.jpg"/>
+        <mohiohio:image date="2023-06-11T08:30:46+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-11T08-30-46.jpg"/>
+      </mohiohio:images>
+    </item>
+    <item>
+      <title>Upper Waitati at 07:39am on June 9, 2023</title>
+      <description>New Zealand birdsong recorded at 07:39am on June 9, 2023</description>
+      <enclosure length="52172380" type="audio/ogg" url="https://chorus.mohiohio.com/audio/capture-2023-06-09T07-39-01.opus"/>
+      <pubDate>Fri, 09 Jun 2023 07:39:01 +1200</pubDate>
+      <itunes:image href="https://chorus.mohiohio.com/images/pic-2023-06-09T07-39-01.jpg"/>
+      <guid>https://chorus.mohiohio.com/audio/capture-2023-06-09T07-39-01.opus</guid>
+      <mohiohio:images>
+        <mohiohio:image date="2023-06-09T07:39:01+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-09T07-39-01.jpg"/>
+        <mohiohio:image date="2023-06-09T07:49:10+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-09T07-49-10.jpg"/>
+        <mohiohio:image date="2023-06-09T07:59:19+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-09T07-59-19.jpg"/>
+        <mohiohio:image date="2023-06-09T08:09:28+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-09T08-09-28.jpg"/>
+        <mohiohio:image date="2023-06-09T08:19:37+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-09T08-19-37.jpg"/>
+        <mohiohio:image date="2023-06-09T08:29:46+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-09T08-29-46.jpg"/>
+      </mohiohio:images>
+    </item>
+    <item>
+      <title>Upper Waitati at 07:38am on June 8, 2023</title>
+      <description>New Zealand birdsong recorded at 07:38am on June 8, 2023</description>
+      <enclosure length="53469421" type="audio/ogg" url="https://chorus.mohiohio.com/audio/capture-2023-06-08T07-38-02.opus"/>
+      <pubDate>Thu, 08 Jun 2023 07:38:02 +1200</pubDate>
+      <itunes:image href="https://chorus.mohiohio.com/images/pic-2023-06-08T07-38-02.jpg"/>
+      <guid>https://chorus.mohiohio.com/audio/capture-2023-06-08T07-38-02.opus</guid>
+      <mohiohio:images>
+        <mohiohio:image date="2023-06-08T07:38:02+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-08T07-38-02.jpg"/>
+        <mohiohio:image date="2023-06-08T07:48:11+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-08T07-48-11.jpg"/>
+        <mohiohio:image date="2023-06-08T07:58:20+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-08T07-58-20.jpg"/>
+        <mohiohio:image date="2023-06-08T08:08:29+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-08T08-08-29.jpg"/>
+        <mohiohio:image date="2023-06-08T08:18:38+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-08T08-18-38.jpg"/>
+        <mohiohio:image date="2023-06-08T08:28:47+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-08T08-28-47.jpg"/>
+      </mohiohio:images>
+    </item>
+    <item>
+      <title>Upper Waitati at 07:38am on June 7, 2023</title>
+      <description>New Zealand birdsong recorded at 07:38am on June 7, 2023</description>
+      <enclosure length="52995558" type="audio/ogg" url="https://chorus.mohiohio.com/audio/capture-2023-06-07T07-38-01.opus"/>
+      <pubDate>Wed, 07 Jun 2023 07:38:01 +1200</pubDate>
+      <itunes:image href="https://chorus.mohiohio.com/images/pic-2023-06-07T07-38-01.jpg"/>
+      <guid>https://chorus.mohiohio.com/audio/capture-2023-06-07T07-38-01.opus</guid>
+      <mohiohio:images>
+        <mohiohio:image date="2023-06-07T07:38:01+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-07T07-38-01.jpg"/>
+        <mohiohio:image date="2023-06-07T07:48:11+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-07T07-48-11.jpg"/>
+        <mohiohio:image date="2023-06-07T07:58:20+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-07T07-58-20.jpg"/>
+        <mohiohio:image date="2023-06-07T08:08:29+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-07T08-08-29.jpg"/>
+        <mohiohio:image date="2023-06-07T08:18:37+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-07T08-18-37.jpg"/>
+        <mohiohio:image date="2023-06-07T08:28:46+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-07T08-28-46.jpg"/>
+      </mohiohio:images>
+    </item>
+    <item>
+      <title>Upper Waitati at 11:50am on June 5, 2023</title>
+      <description>New Zealand birdsong recorded at 11:50am on June 5, 2023</description>
+      <enclosure length="51594409" type="audio/ogg" url="https://chorus.mohiohio.com/audio/capture-2023-06-05T11-50-16.opus"/>
+      <pubDate>Mon, 05 Jun 2023 11:50:16 +1200</pubDate>
+      <itunes:image href="https://chorus.mohiohio.com/images/pic-2023-06-05T11-50-16.jpg"/>
+      <guid>https://chorus.mohiohio.com/audio/capture-2023-06-05T11-50-16.opus</guid>
+      <mohiohio:images>
+        <mohiohio:image date="2023-06-05T11:50:16+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-05T11-50-16.jpg"/>
+        <mohiohio:image date="2023-06-05T12:00:26+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-05T12-00-26.jpg"/>
+        <mohiohio:image date="2023-06-05T12:10:34+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-05T12-10-34.jpg"/>
+        <mohiohio:image date="2023-06-05T12:20:43+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-05T12-20-43.jpg"/>
+        <mohiohio:image date="2023-06-05T12:30:52+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-05T12-30-52.jpg"/>
+        <mohiohio:image date="2023-06-05T12:41:01+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-05T12-41-01.jpg"/>
+      </mohiohio:images>
+    </item>
+    <item>
+      <title>Upper Waitati at 07:35am on June 4, 2023</title>
+      <description>New Zealand birdsong recorded at 07:35am on June 4, 2023</description>
+      <enclosure length="53199661" type="audio/ogg" url="https://chorus.mohiohio.com/audio/capture-2023-06-04T07-35-01.opus"/>
+      <pubDate>Sun, 04 Jun 2023 07:35:01 +1200</pubDate>
+      <itunes:image href="https://chorus.mohiohio.com/images/pic-2023-06-04T07-35-01.jpg"/>
+      <guid>https://chorus.mohiohio.com/audio/capture-2023-06-04T07-35-01.opus</guid>
+      <mohiohio:images>
+        <mohiohio:image date="2023-06-04T07:35:01+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-04T07-35-01.jpg"/>
+        <mohiohio:image date="2023-06-04T07:45:10+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-04T07-45-10.jpg"/>
+        <mohiohio:image date="2023-06-04T07:55:19+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-04T07-55-19.jpg"/>
+        <mohiohio:image date="2023-06-04T08:05:28+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-04T08-05-28.jpg"/>
+        <mohiohio:image date="2023-06-04T08:15:37+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-04T08-15-37.jpg"/>
+        <mohiohio:image date="2023-06-04T08:25:46+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-04T08-25-46.jpg"/>
+      </mohiohio:images>
+    </item>
+    <item>
+      <title>Upper Waitati at 07:35am on June 3, 2023</title>
+      <description>New Zealand birdsong recorded at 07:35am on June 3, 2023</description>
+      <enclosure length="52702706" type="audio/ogg" url="https://chorus.mohiohio.com/audio/capture-2023-06-03T07-35-01.opus"/>
+      <pubDate>Sat, 03 Jun 2023 07:35:01 +1200</pubDate>
+      <itunes:image href="https://chorus.mohiohio.com/images/pic-2023-06-03T07-35-01.jpg"/>
+      <guid>https://chorus.mohiohio.com/audio/capture-2023-06-03T07-35-01.opus</guid>
+      <mohiohio:images>
+        <mohiohio:image date="2023-06-03T07:35:01+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-03T07-35-01.jpg"/>
+        <mohiohio:image date="2023-06-03T07:45:11+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-03T07-45-11.jpg"/>
+        <mohiohio:image date="2023-06-03T07:55:19+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-03T07-55-19.jpg"/>
+        <mohiohio:image date="2023-06-03T08:05:28+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-03T08-05-28.jpg"/>
+        <mohiohio:image date="2023-06-03T08:15:37+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-03T08-15-37.jpg"/>
+        <mohiohio:image date="2023-06-03T08:25:46+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-03T08-25-46.jpg"/>
+      </mohiohio:images>
+    </item>
+    <item>
+      <title>Upper Waitati at 11:21am on June 2, 2023</title>
+      <description>New Zealand birdsong recorded at 11:21am on June 2, 2023</description>
+      <enclosure length="51167190" type="audio/ogg" url="https://chorus.mohiohio.com/audio/capture-2023-06-02T11-21-25.opus"/>
+      <pubDate>Fri, 02 Jun 2023 11:21:25 +1200</pubDate>
+      <itunes:image href="https://chorus.mohiohio.com/images/pic-2023-06-02T11-21-25.jpg"/>
+      <guid>https://chorus.mohiohio.com/audio/capture-2023-06-02T11-21-25.opus</guid>
+      <mohiohio:images>
+        <mohiohio:image date="2023-06-02T11:17:50+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-02T11-17-50.jpg"/>
+        <mohiohio:image date="2023-06-02T11:21:25+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-02T11-21-25.jpg"/>
+        <mohiohio:image date="2023-06-02T11:31:34+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-02T11-31-34.jpg"/>
+        <mohiohio:image date="2023-06-02T11:41:43+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-02T11-41-43.jpg"/>
+        <mohiohio:image date="2023-06-02T11:51:52+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-02T11-51-52.jpg"/>
+        <mohiohio:image date="2023-06-02T12:02:01+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-02T12-02-01.jpg"/>
+        <mohiohio:image date="2023-06-02T12:12:10+12:00" href="https://chorus.mohiohio.com/images/pic-2023-06-02T12-12-10.jpg"/>
+      </mohiohio:images>
+    </item>
+    <item>
+      <title>Upper Waitati at 07:32am on May 31, 2023</title>
+      <description>New Zealand birdsong recorded at 07:32am on May 31, 2023</description>
+      <enclosure length="52968236" type="audio/ogg" url="https://chorus.mohiohio.com/audio/capture-2023-05-31T07-32-02.opus"/>
+      <pubDate>Wed, 31 May 2023 07:32:02 +1200</pubDate>
+      <itunes:image href="https://chorus.mohiohio.com/images/pic-2023-05-31T07-32-02.jpg"/>
+      <guid>https://chorus.mohiohio.com/audio/capture-2023-05-31T07-32-02.opus</guid>
+      <mohiohio:images>
+        <mohiohio:image date="2023-05-31T07:32:02+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-31T07-32-02.jpg"/>
+        <mohiohio:image date="2023-05-31T07:42:11+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-31T07-42-11.jpg"/>
+        <mohiohio:image date="2023-05-31T07:52:20+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-31T07-52-20.jpg"/>
+        <mohiohio:image date="2023-05-31T08:02:29+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-31T08-02-29.jpg"/>
+        <mohiohio:image date="2023-05-31T08:12:38+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-31T08-12-38.jpg"/>
+        <mohiohio:image date="2023-05-31T08:22:47+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-31T08-22-47.jpg"/>
+      </mohiohio:images>
+    </item>
+    <item>
+      <title>Upper Waitati at 07:30am on May 28, 2023</title>
+      <description>New Zealand birdsong recorded at 07:30am on May 28, 2023</description>
+      <enclosure length="53460957" type="audio/ogg" url="https://chorus.mohiohio.com/audio/capture-2023-05-28T07-30-01.opus"/>
+      <pubDate>Sun, 28 May 2023 07:30:01 +1200</pubDate>
+      <itunes:image href="https://chorus.mohiohio.com/images/pic-2023-05-28T07-30-01.jpg"/>
+      <guid>https://chorus.mohiohio.com/audio/capture-2023-05-28T07-30-01.opus</guid>
+      <mohiohio:images>
+        <mohiohio:image date="2023-05-28T07:30:01+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-28T07-30-01.jpg"/>
+        <mohiohio:image date="2023-05-28T07:40:10+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-28T07-40-10.jpg"/>
+        <mohiohio:image date="2023-05-28T07:50:19+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-28T07-50-19.jpg"/>
+        <mohiohio:image date="2023-05-28T08:00:28+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-28T08-00-28.jpg"/>
+        <mohiohio:image date="2023-05-28T08:10:37+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-28T08-10-37.jpg"/>
+        <mohiohio:image date="2023-05-28T08:20:46+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-28T08-20-46.jpg"/>
+      </mohiohio:images>
+    </item>
+    <item>
+      <title>Upper Waitati at 07:29am on May 27, 2023</title>
+      <description>New Zealand birdsong recorded at 07:29am on May 27, 2023</description>
+      <enclosure length="53076833" type="audio/ogg" url="https://chorus.mohiohio.com/audio/capture-2023-05-27T07-29-01.opus"/>
+      <pubDate>Sat, 27 May 2023 07:29:01 +1200</pubDate>
+      <itunes:image href="https://chorus.mohiohio.com/images/pic-2023-05-27T07-29-01.jpg"/>
+      <guid>https://chorus.mohiohio.com/audio/capture-2023-05-27T07-29-01.opus</guid>
+      <mohiohio:images>
+        <mohiohio:image date="2023-05-27T07:29:01+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-27T07-29-01.jpg"/>
+        <mohiohio:image date="2023-05-27T07:39:11+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-27T07-39-11.jpg"/>
+        <mohiohio:image date="2023-05-27T07:49:20+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-27T07-49-20.jpg"/>
+        <mohiohio:image date="2023-05-27T07:59:29+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-27T07-59-29.jpg"/>
+        <mohiohio:image date="2023-05-27T08:09:38+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-27T08-09-38.jpg"/>
+        <mohiohio:image date="2023-05-27T08:19:47+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-27T08-19-47.jpg"/>
+      </mohiohio:images>
+    </item>
+    <item>
+      <title>Upper Waitati at 07:28am on May 26, 2023</title>
+      <description>New Zealand birdsong recorded at 07:28am on May 26, 2023</description>
+      <enclosure length="54001835" type="audio/ogg" url="https://chorus.mohiohio.com/audio/capture-2023-05-26T07-28-01.opus"/>
+      <pubDate>Fri, 26 May 2023 07:28:01 +1200</pubDate>
+      <itunes:image href="https://chorus.mohiohio.com/images/pic-2023-05-26T07-28-01.jpg"/>
+      <guid>https://chorus.mohiohio.com/audio/capture-2023-05-26T07-28-01.opus</guid>
+      <mohiohio:images>
+        <mohiohio:image date="2023-05-26T07:28:01+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-26T07-28-01.jpg"/>
+        <mohiohio:image date="2023-05-26T07:38:10+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-26T07-38-10.jpg"/>
+        <mohiohio:image date="2023-05-26T07:48:19+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-26T07-48-19.jpg"/>
+        <mohiohio:image date="2023-05-26T07:58:28+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-26T07-58-28.jpg"/>
+        <mohiohio:image date="2023-05-26T08:08:37+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-26T08-08-37.jpg"/>
+        <mohiohio:image date="2023-05-26T08:18:46+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-26T08-18-46.jpg"/>
+      </mohiohio:images>
+    </item>
+    <item>
+      <title>Upper Waitati at 07:27am on May 25, 2023</title>
+      <description>New Zealand birdsong recorded at 07:27am on May 25, 2023</description>
+      <enclosure length="53410658" type="audio/ogg" url="https://chorus.mohiohio.com/audio/capture-2023-05-25T07-27-01.opus"/>
+      <pubDate>Thu, 25 May 2023 07:27:01 +1200</pubDate>
+      <itunes:image href="https://chorus.mohiohio.com/images/pic-2023-05-25T07-27-01.jpg"/>
+      <guid>https://chorus.mohiohio.com/audio/capture-2023-05-25T07-27-01.opus</guid>
+      <mohiohio:images>
+        <mohiohio:image date="2023-05-25T07:27:01+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-25T07-27-01.jpg"/>
+        <mohiohio:image date="2023-05-25T07:37:11+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-25T07-37-11.jpg"/>
+        <mohiohio:image date="2023-05-25T07:47:20+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-25T07-47-20.jpg"/>
+        <mohiohio:image date="2023-05-25T07:57:29+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-25T07-57-29.jpg"/>
+        <mohiohio:image date="2023-05-25T08:07:38+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-25T08-07-38.jpg"/>
+        <mohiohio:image date="2023-05-25T08:17:46+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-25T08-17-46.jpg"/>
+      </mohiohio:images>
+    </item>
+    <item>
+      <title>Upper Waitati at 07:26am on May 24, 2023</title>
+      <description>New Zealand birdsong recorded at 07:26am on May 24, 2023</description>
+      <enclosure length="52853229" type="audio/ogg" url="https://chorus.mohiohio.com/audio/capture-2023-05-24T07-26-01.opus"/>
+      <pubDate>Wed, 24 May 2023 07:26:01 +1200</pubDate>
+      <itunes:image href="https://chorus.mohiohio.com/images/pic-2023-05-24T07-26-01.jpg"/>
+      <guid>https://chorus.mohiohio.com/audio/capture-2023-05-24T07-26-01.opus</guid>
+      <mohiohio:images>
+        <mohiohio:image date="2023-05-24T07:26:01+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-24T07-26-01.jpg"/>
+        <mohiohio:image date="2023-05-24T07:36:11+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-24T07-36-11.jpg"/>
+        <mohiohio:image date="2023-05-24T07:46:20+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-24T07-46-20.jpg"/>
+        <mohiohio:image date="2023-05-24T07:56:29+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-24T07-56-29.jpg"/>
+        <mohiohio:image date="2023-05-24T08:06:38+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-24T08-06-38.jpg"/>
+        <mohiohio:image date="2023-05-24T08:16:47+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-24T08-16-47.jpg"/>
+      </mohiohio:images>
+    </item>
+    <item>
+      <title>Upper Waitati at 07:25am on May 23, 2023</title>
+      <description>New Zealand birdsong recorded at 07:25am on May 23, 2023</description>
+      <enclosure length="53195832" type="audio/ogg" url="https://chorus.mohiohio.com/audio/capture-2023-05-23T07-25-01.opus"/>
+      <pubDate>Tue, 23 May 2023 07:25:01 +1200</pubDate>
+      <itunes:image href="https://chorus.mohiohio.com/images/pic-2023-05-23T07-25-01.jpg"/>
+      <guid>https://chorus.mohiohio.com/audio/capture-2023-05-23T07-25-01.opus</guid>
+      <mohiohio:images>
+        <mohiohio:image date="2023-05-23T07:25:01+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-23T07-25-01.jpg"/>
+        <mohiohio:image date="2023-05-23T07:35:11+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-23T07-35-11.jpg"/>
+        <mohiohio:image date="2023-05-23T07:45:20+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-23T07-45-20.jpg"/>
+        <mohiohio:image date="2023-05-23T07:55:29+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-23T07-55-29.jpg"/>
+        <mohiohio:image date="2023-05-23T08:05:37+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-23T08-05-37.jpg"/>
+        <mohiohio:image date="2023-05-23T08:15:46+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-23T08-15-46.jpg"/>
+      </mohiohio:images>
+    </item>
+    <item>
+      <title>Upper Waitati at 11:29am on May 22, 2023</title>
+      <description>New Zealand birdsong recorded at 11:29am on May 22, 2023</description>
+      <enclosure length="51480571" type="audio/ogg" url="https://chorus.mohiohio.com/audio/capture-2023-05-22T11-29-32.opus"/>
+      <pubDate>Mon, 22 May 2023 11:29:32 +1200</pubDate>
+      <itunes:image href="https://chorus.mohiohio.com/images/pic-2023-05-22T11-29-32.jpg"/>
+      <guid>https://chorus.mohiohio.com/audio/capture-2023-05-22T11-29-32.opus</guid>
+      <mohiohio:images>
+        <mohiohio:image date="2023-05-22T11:23:34+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-22T11-23-34.jpg"/>
+        <mohiohio:image date="2023-05-22T11:29:32+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-22T11-29-32.jpg"/>
+        <mohiohio:image date="2023-05-22T11:39:41+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-22T11-39-41.jpg"/>
+        <mohiohio:image date="2023-05-22T11:49:50+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-22T11-49-50.jpg"/>
+        <mohiohio:image date="2023-05-22T11:59:59+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-22T11-59-59.jpg"/>
+        <mohiohio:image date="2023-05-22T12:10:08+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-22T12-10-08.jpg"/>
+        <mohiohio:image date="2023-05-22T12:20:17+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-22T12-20-17.jpg"/>
+      </mohiohio:images>
+    </item>
+    <item>
+      <title>Upper Waitati at 07:10am on May 9, 2023</title>
+      <description>New Zealand birdsong recorded at 07:10am on May 9, 2023</description>
+      <enclosure length="53433507" type="audio/ogg" url="https://chorus.mohiohio.com/audio/capture-2023-05-09T07-10-01.opus"/>
+      <pubDate>Tue, 09 May 2023 07:10:01 +1200</pubDate>
+      <itunes:image href="https://chorus.mohiohio.com/images/pic-2023-05-09T07-10-01.jpg"/>
+      <guid>https://chorus.mohiohio.com/audio/capture-2023-05-09T07-10-01.opus</guid>
+      <mohiohio:images>
+        <mohiohio:image date="2023-05-09T07:10:01+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-09T07-10-01.jpg"/>
+        <mohiohio:image date="2023-05-09T07:20:11+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-09T07-20-11.jpg"/>
+        <mohiohio:image date="2023-05-09T07:30:19+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-09T07-30-19.jpg"/>
+        <mohiohio:image date="2023-05-09T07:40:28+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-09T07-40-28.jpg"/>
+        <mohiohio:image date="2023-05-09T07:50:37+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-09T07-50-37.jpg"/>
+        <mohiohio:image date="2023-05-09T08:00:46+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-09T08-00-46.jpg"/>
+      </mohiohio:images>
+    </item>
+    <item>
+      <title>Upper Waitati at 07:09am on May 8, 2023</title>
+      <description>New Zealand birdsong recorded at 07:09am on May 8, 2023</description>
+      <enclosure length="52963208" type="audio/ogg" url="https://chorus.mohiohio.com/audio/capture-2023-05-08T07-09-01.opus"/>
+      <pubDate>Mon, 08 May 2023 07:09:01 +1200</pubDate>
+      <itunes:image href="https://chorus.mohiohio.com/images/pic-2023-05-08T07-09-01.jpg"/>
+      <guid>https://chorus.mohiohio.com/audio/capture-2023-05-08T07-09-01.opus</guid>
+      <mohiohio:images>
+        <mohiohio:image date="2023-05-08T07:09:01+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-08T07-09-01.jpg"/>
+        <mohiohio:image date="2023-05-08T07:29:41+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-08T07-29-41.jpg"/>
+        <mohiohio:image date="2023-05-08T07:39:36+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-08T07-39-36.jpg"/>
+        <mohiohio:image date="2023-05-08T07:49:45+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-08T07-49-45.jpg"/>
+      </mohiohio:images>
+    </item>
+    <item>
+      <title>Upper Waitati at 07:15am on May 4, 2023</title>
+      <description>New Zealand birdsong recorded at 07:15am on May 4, 2023</description>
+      <enclosure length="52363463" type="audio/ogg" url="https://chorus.mohiohio.com/audio/capture-2023-05-04T07-15-02.opus"/>
+      <pubDate>Thu, 04 May 2023 07:15:02 +1200</pubDate>
+      <itunes:image href="https://chorus.mohiohio.com/images/pic-2023-05-04T07-15-11.jpg"/>
+      <guid>https://chorus.mohiohio.com/audio/capture-2023-05-04T07-15-02.opus</guid>
+      <mohiohio:images>
+        <mohiohio:image date="2023-05-04T07:15:11+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-04T07-15-11.jpg"/>
+      </mohiohio:images>
+    </item>
+    <item>
+      <title>Upper Waitati at 07:15am on May 3, 2023</title>
+      <description>New Zealand birdsong recorded at 07:15am on May 3, 2023</description>
+      <enclosure length="51592233" type="audio/ogg" url="https://chorus.mohiohio.com/audio/capture-2023-05-03T07-15-01.opus"/>
+      <pubDate>Wed, 03 May 2023 07:15:01 +1200</pubDate>
+      <itunes:image href="https://chorus.mohiohio.com/images/pic-2023-05-03T07-15-10.jpg"/>
+      <guid>https://chorus.mohiohio.com/audio/capture-2023-05-03T07-15-01.opus</guid>
+      <mohiohio:images>
+        <mohiohio:image date="2023-05-03T07:15:10+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-03T07-15-10.jpg"/>
+      </mohiohio:images>
+    </item>
+    <item>
+      <title>Upper Waitati at 07:15am on May 2, 2023</title>
+      <description>New Zealand birdsong recorded at 07:15am on May 2, 2023</description>
+      <enclosure length="54033089" type="audio/ogg" url="https://chorus.mohiohio.com/audio/capture-2023-05-02T07-15-11.opus"/>
+      <pubDate>Tue, 02 May 2023 07:15:11 +1200</pubDate>
+      <itunes:image href="https://chorus.mohiohio.com/images/pic-2023-05-02T07-15-20.jpg"/>
+      <guid>https://chorus.mohiohio.com/audio/capture-2023-05-02T07-15-11.opus</guid>
+      <mohiohio:images>
+        <mohiohio:image date="2023-05-02T07:15:20+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-02T07-15-20.jpg"/>
+      </mohiohio:images>
+    </item>
+    <item>
+      <title>Upper Waitati at 07:15am on May 1, 2023</title>
+      <description>New Zealand birdsong recorded at 07:15am on May 1, 2023</description>
+      <enclosure length="55841444" type="audio/ogg" url="https://chorus.mohiohio.com/audio/capture-2023-05-01T07-15-11.opus"/>
+      <pubDate>Mon, 01 May 2023 07:15:11 +1200</pubDate>
+      <itunes:image href="https://chorus.mohiohio.com/images/pic-2023-05-01T07-15-20.jpg"/>
+      <guid>https://chorus.mohiohio.com/audio/capture-2023-05-01T07-15-11.opus</guid>
+      <mohiohio:images>
+        <mohiohio:image date="2023-05-01T07:15:20+12:00" href="https://chorus.mohiohio.com/images/pic-2023-05-01T07-15-20.jpg"/>
+      </mohiohio:images>
+    </item>
+  </channel>
+</rss>

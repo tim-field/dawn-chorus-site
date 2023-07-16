@@ -1,9 +1,10 @@
-import { readdir } from "fs/promises";
+import { parseRSSImages } from "@/lib/rss"
 
-const PATH_SAMPLES =
-  "/Users/timfield/atomic/code/dawn-chorus-site/public/samples";
+const RSS_URL = "https://chorus.mohiohio.com/feed.xml"
 
 export const getImages = async () => {
-  const files = readdir(`${PATH_SAMPLES}/images`);
-  return files;
-};
+  const rss = fetch(RSS_URL)
+    .then((resp) => resp.text())
+    .then((xml) => parseRSSImages(xml))
+  return rss
+}

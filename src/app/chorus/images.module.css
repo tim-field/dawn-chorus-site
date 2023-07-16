@@ -1,0 +1,9 @@
+.wrapper {
+  height: 100%;
+  overflow-y: scroll;
+  scroll-snap-type: y mandatory;
+}
+
+.image {
+  scroll-snap-align: start;
+}

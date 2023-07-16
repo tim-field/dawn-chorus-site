@@ -3,10 +3,5 @@ export default function ChorusLayout({
 }: {
   children: React.ReactNode;
 }) {
-  return (
-    <main>
-      <h1>Chorus</h1>
-      {children}
-    </main>
-  );
+  return <main>{children}</main>;
 }

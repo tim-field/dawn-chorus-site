@@ -1,20 +1,14 @@
-import Image from "next/image";
+import Image from "next/image"
+import styles from "./images.module.css"
 
-const PUBLIC_URL = "/samples/images";
-
-export const Images = ({ images }: { images: string[] }) => {
+export const Images = ({ images }: { images: { href: string }[] }) => {
   return (
-    <div>
+    <div className={styles.wrapper}>
       {images.map((image, index) => (
-        <div key={index}>
-          <Image
-            src={`${PUBLIC_URL}/${image}`}
-            height="1500"
-            width="1500"
-            alt="chorus"
-          />
+        <div className={styles.image} key={index}>
+          <Image src={image.href} height="1500" width="1500" alt="chorus" />
         </div>
       ))}
     </div>
-  );
-};
+  )
+}
