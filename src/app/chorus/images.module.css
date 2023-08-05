@@ -1,9 +1,21 @@
 .wrapper {
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  flex-direction: column;
   height: 100%;
+  overflow: hidden;
   overflow-y: scroll;
+
   scroll-snap-type: y mandatory;
+  background-color: black;
 }
 
 .image {
+  max-width: 100%;
+  height: auto;
   scroll-snap-align: start;
+  min-height: 0;
+  min-width: 0;
+  flex: 1 0 auto;
 }

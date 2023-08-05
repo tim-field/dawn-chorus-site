@@ -1,7 +1,9 @@
+import styles from "./layout.module.css"
+
 export default function ChorusLayout({
   children,
 }: {
-  children: React.ReactNode;
+  children: React.ReactNode
 }) {
-  return <main>{children}</main>;
+  return <main className={styles.main}>{children}</main>
 }

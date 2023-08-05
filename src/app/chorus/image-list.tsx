@@ -1,12 +1,8 @@
-import { getImages } from "./get-images";
-import { Images } from "./images";
+import { getImages } from "./get-images"
+import { Images } from "./images"
 
 export const ImageList = async () => {
-  const images = await getImages();
+  const images = await getImages()
 
-  return (
-    <div>
-      <Images images={images} />
-    </div>
-  );
-};
+  return <Images images={images} />
+}
