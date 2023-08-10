@@ -16,8 +16,11 @@ describe("parses rss", () => {
         expect.objectContaining({
           href: expect.any(String),
           date: expect.any(String),
+          audio: expect.any(String),
+          offset: expect.any(String),
         }),
       ])
     )
+    console.log(JSON.stringify(rss, null, 2))
   })
 })

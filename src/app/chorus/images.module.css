@@ -1,20 +1,22 @@
 .wrapper {
-  display: flex;
-  /* justify-content: center; */
-  align-items: center;
-  flex-direction: column;
   height: 100%;
-  overflow: hidden;
   overflow-y: scroll;
 
   scroll-snap-type: y mandatory;
   background-color: black;
 }
 
-.image {
-  max-width: 100%;
-  height: auto;
+.imageWrapper {
   scroll-snap-align: start;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.image {
+  max-width: fit-content;
+  height: auto;
   min-height: 0;
   min-width: 0;
   flex: 1 0 auto;

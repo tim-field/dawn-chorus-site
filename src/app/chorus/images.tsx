@@ -1,19 +1,31 @@
 import Image from "next/image"
 import styles from "./images.module.css"
+import { ImageAudio } from "./audio"
+import { getImages } from "./get-images"
 
-export const Images = ({ images }: { images: { href: string }[] }) => {
+export const Images = ({
+  images,
+}: {
+  images: Awaited<ReturnType<typeof getImages>>
+}) => {
   return (
-    <div className={styles.wrapper}>
-      {images.map((image, index) => (
-        <Image
-          key={index}
-          className={styles.image}
-          src={image.href}
-          height="1500"
-          width="1500"
-          alt="chorus"
-        />
-      ))}
-    </div>
+    <>
+      <ImageAudio targetSelector={`.${styles.image}`} />
+      <div id="scrollWrapper" className={styles.wrapper}>
+        {images.map((image, index) => (
+          <div key={image.href} className={styles.imageWrapper}>
+            <Image
+              className={styles.image}
+              src={image.href}
+              height="1500"
+              width="1500"
+              alt="chorus"
+              data-offset={image.offset}
+              data-audio={image.audio}
+            />
+          </div>
+        ))}
+      </div>
+    </>
   )
 }
