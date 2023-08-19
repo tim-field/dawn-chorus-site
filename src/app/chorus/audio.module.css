@@ -1,0 +1,107 @@
+.footer {
+  position: absolute;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.audio {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 42px;
+  background-color: transparent;
+  font-size: small;
+  gap: 8px;
+  max-width: 750px;
+  flex-grow: 1;
+  padding: 0 10px;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  background: none;
+  /* color: white; */
+  width: 16px;
+  height: 16px;
+  color: rgb(33, 42, 46);
+}
+
+.button:hover {
+  color: rgb(190, 59, 8);
+}
+
+.progress {
+  flex-grow: 1;
+  color: rgb(33, 42, 46);
+  -webkit-appearance: none;
+  height: 4px;
+}
+.progress::-moz-range-thumb {
+  background-color: rgb(33, 42, 46);
+}
+.progress::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 16px; /* Set the width of the thumb */
+  height: 16px; /* Set the height of the thumb */
+  border-radius: 50%;
+  background-color: rgb(33, 42, 46);
+}
+.progress::-moz-range-thumb:hover {
+  background-color: rgb(190, 59, 8);
+}
+.progress::-webkit-slider-thumb:hover {
+  background-color: rgb(190, 59, 8);
+}
+.progress::-moz-range-progress {
+  background-color: rgb(190, 59, 8);
+}
+
+.time {
+  padding: 0 5px;
+  text-align: left;
+  white-space: nowrap;
+  min-width: 80px;
+  font-family: monospace;
+  display: flex;
+  gap: 5px;
+  justify-content: flex-end;
+  color: rgb(33, 42, 46);
+}
+.currentTime::after {
+  content: " / ";
+}
+.totalTime {
+  /* color: gray; */
+}
+
+.volume {
+  color: rgb(33, 42, 46);
+  height: 4px;
+  -webkit-appearance: none;
+  display: none;
+}
+.volume::-moz-range-thumb {
+  background-color: rgb(33, 42, 46);
+}
+.volume::-moz-range-thumb:hover {
+  background-color: rgb(190, 59, 8);
+}
+.volume::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 16px; /* Set the width of the thumb */
+  height: 16px; /* Set the height of the thumb */
+  border-radius: 50%;
+  background-color: rgb(33, 42, 46);
+}
+
+@media (min-width: 800px) {
+  .volume {
+    display: block;
+  }
+}
