@@ -1,7 +1,14 @@
 "use client"
-import { useCallback, useEffect, useMemo, useRef, useState } from "react"
+import {
+  useCallback,
+  useEffect,
+  useLayoutEffect,
+  useMemo,
+  useRef,
+  useState,
+} from "react"
 import { useObserveImages } from "./use-observe-images"
-import styles from "./image-audio.module.css"
+import css from "./image-audio.module.css"
 
 function getContainedSize(img: HTMLImageElement) {
   var ratio = img.naturalWidth / img.naturalHeight
@@ -153,29 +160,22 @@ export const ImageAudio = ({ targetSelector }: { targetSelector: string }) => {
     }
   }, [cleanUp, playAudio])
 
-  const [renderedWidth, renderedHeight] = useMemo(
-    () => (img ? getContainedSize(img) : [0, 0]),
-    [img?.width]
-  )
+  const [style, setStyle] = useState<React.CSSProperties>()
 
-  const clientHeight =
-    typeof window !== "undefined" ? document.body.clientHeight : undefined
-
-  const progressPosition = useMemo(
-    () =>
-      clientHeight
-        ? {
-            width: renderedWidth,
-            bottom: (clientHeight - renderedHeight) / 2,
-          }
-        : {},
-    [renderedWidth, renderedHeight, clientHeight]
-  )
+  useLayoutEffect(() => {
+    if (img) {
+      const [renderedWidth, renderedHeight] = getContainedSize(img)
+      setStyle({
+        width: renderedWidth,
+        bottom: (document.body.clientHeight - renderedHeight) / 2,
+      })
+    }
+  }, [img?.width])
 
   return (
-    <div ref={elementRef} style={progressPosition} className={styles.progress}>
+    <div ref={elementRef} style={style} className={css.progress}>
       <div
-        className={styles.progressInner}
+        className={css.progressInner}
         style={{
           width: time && duration ? `${(time / duration) * 100}%` : undefined,
         }}
