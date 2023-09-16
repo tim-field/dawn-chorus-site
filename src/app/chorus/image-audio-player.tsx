@@ -1,5 +1,5 @@
 "use client"
-import styles from "./audio.module.css"
+import styles from "./image-audio-player.module.css"
 import { useCallback, useEffect, useMemo, useRef, useState } from "react"
 import { useObserveImages } from "./use-observe-images"
 import Play from "./play.svg"
@@ -19,7 +19,11 @@ const formatTime = (seconds: number) => {
   return `${formattedHours}${formattedMinutes}:${formattedSeconds}`
 }
 
-export const ImageAudio = ({ targetSelector }: { targetSelector: string }) => {
+export const ImageAudioPlayer = ({
+  targetSelector,
+}: {
+  targetSelector: string
+}) => {
   const [img] = useObserveImages({ targetSelector })
   const [playing, setPlaying] = useState<boolean>(false)
   const [volume, setVolume] = useState<number>(1)

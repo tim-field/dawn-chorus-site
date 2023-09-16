@@ -1,7 +1,7 @@
 import Image from "next/image"
 import styles from "./images.module.css"
-import { ImageAudio } from "./audio"
 import { getImages } from "./get-images"
+import { ImageAudio } from "./image-audio"
 
 export const Images = ({
   images,
