@@ -11,9 +11,9 @@ import { useObserveImages } from "./use-observe-images"
 import css from "./image-audio.module.css"
 
 function getContainedSize(img: HTMLImageElement) {
-  var ratio = img.naturalWidth / img.naturalHeight
-  var width = img.height * ratio
-  var height = img.height
+  const ratio = img.naturalWidth / img.naturalHeight
+  let width = img.height * ratio
+  let height = img.height
   if (width > img.width) {
     width = img.width
     height = img.width / ratio
@@ -22,15 +22,11 @@ function getContainedSize(img: HTMLImageElement) {
 }
 
 export const ImageAudio = ({ targetSelector }: { targetSelector: string }) => {
-  // const [playing, setPlaying] = useState<boolean>(false)
-  const audioRef = useRef<HTMLAudioElement>()
-  // const imageRef = useRef<HTMLImageElement | undefined>(img)
-  // const [ready, setReady] = useState<boolean>(false)
-  // const [audioUrl, setAudioUrl] = useState<string>()
+  const [img] = useObserveImages({ targetSelector })
   const [duration, setDuration] = useState<number>(0)
   const [time, setTime] = useState<number>(0)
+  const audioRef = useRef<HTMLAudioElement>()
   const elementRef = useRef(null)
-  const [img] = useObserveImages({ targetSelector })
   const offsetRef = useRef<number>(0)
 
   const listeners = useMemo(
@@ -85,7 +81,6 @@ export const ImageAudio = ({ targetSelector }: { targetSelector: string }) => {
     (url: string) => {
       const audio = audioRef.current
       if (audio?.src === url) {
-        // already loaded
         console.log("initAudio: already loaded")
         return
       }
@@ -99,9 +94,6 @@ export const ImageAudio = ({ targetSelector }: { targetSelector: string }) => {
       Object.entries(listeners).forEach(([key, value]) => {
         audioRef.current?.addEventListener(key, value)
       })
-      // if (audioRef.current.paused) {
-      //   setReady(true)
-      // }
       playAudio()
     },
     [listeners, cleanUp, playAudio]

@@ -1,12 +1,15 @@
+import { RSS_URL } from "@/lib/constants"
 import "./globals.css"
-import { Inter } from "next/font/google"
 import styles from "./layout.module.css"
-
-const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
   title: "Mohiohio",
   description: "Tim Field's personal website",
+  alternates: {
+    types: {
+      "application/rss+xml": RSS_URL,
+    },
+  },
 }
 
 export default function RootLayout({
@@ -16,7 +19,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={inter.className}>
+      <body>
         <main className={styles.main}>{children}</main>
       </body>
     </html>

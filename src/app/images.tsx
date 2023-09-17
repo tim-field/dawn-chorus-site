@@ -19,7 +19,7 @@ export const Images = ({
               src={image.href}
               height="1500"
               width="1500"
-              alt="chorus"
+              alt={image.alt}
               data-offset={image.offset}
               data-audio={image.audio}
             />
