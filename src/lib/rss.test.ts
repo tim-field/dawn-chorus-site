@@ -18,6 +18,7 @@ describe("parses rss", () => {
           date: expect.any(String),
           audio: expect.any(String),
           offset: expect.any(String),
+          alt: expect.any(String),
         }),
       ])
     )
