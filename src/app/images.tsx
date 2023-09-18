@@ -15,9 +15,12 @@ export const Images = ({
           <div key={image.href} className={styles.imageWrapper}>
             <img
               className={styles.image}
+              loading={index > 2 ? "lazy" : "eager"}
               src={image.href}
-              loading="lazy"
-              alt={image.alt}
+              alt={
+                "A photo captured from the webcam at the time the audio was recorded"
+              }
+              title={image.alt}
               data-offset={image.offset}
               data-audio={image.audio}
             />

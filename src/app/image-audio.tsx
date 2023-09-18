@@ -124,7 +124,10 @@ export const ImageAudio = ({ targetSelector }: { targetSelector: string }) => {
         | HTMLImageElement
         | undefined
 
-      offsetRef.current = Number(nextImage?.dataset?.offset ?? 0)
+      if (nextImage) {
+        offsetRef.current = Number(nextImage.dataset?.offset ?? 0)
+        nextImage.loading = "eager"
+      }
 
       //nextImage?.parentElement?.scrollIntoView("smooth")
       // const offset = Number(img?.dataset?.offset ?? 0)
@@ -162,7 +165,7 @@ export const ImageAudio = ({ targetSelector }: { targetSelector: string }) => {
         bottom: (document.body.clientHeight - renderedHeight) / 2,
       })
     }
-  }, [img?.width])
+  }, [img])
 
   return (
     <div ref={elementRef} style={style} className={css.progress}>
