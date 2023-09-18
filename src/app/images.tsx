@@ -1,7 +1,6 @@
-import Image from "next/image"
-import styles from "./images.module.css"
 import { getImages } from "./get-images"
 import { ImageAudio } from "./image-audio"
+import styles from "./images.module.css"
 
 export const Images = ({
   images,
@@ -14,11 +13,10 @@ export const Images = ({
       <div id="scrollWrapper" className={styles.wrapper}>
         {images.map((image, index) => (
           <div key={image.href} className={styles.imageWrapper}>
-            <Image
+            <img
               className={styles.image}
               src={image.href}
-              height="1500"
-              width="1500"
+              loading="lazy"
               alt={image.alt}
               data-offset={image.offset}
               data-audio={image.audio}
