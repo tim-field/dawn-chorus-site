@@ -19,6 +19,13 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <script
+          defer
+          data-domain="mohiohio.com"
+          src="https://plausible.mohiohio.com/js/script.js"
+        ></script>
+      </head>
       <body>
         <main className={styles.main}>{children}</main>
       </body>
