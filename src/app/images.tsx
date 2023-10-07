@@ -1,3 +1,4 @@
+import Image from "next/image"
 import { getImages } from "./get-images"
 import { ImageAudio } from "./image-audio"
 import styles from "./images.module.css"
@@ -13,10 +14,11 @@ export const Images = ({
       <div id="scrollWrapper" className={styles.wrapper}>
         {images.map((image, index) => (
           <div key={image.href} className={styles.imageWrapper}>
-            <img
+            <Image
               className={styles.image}
-              loading={index > 2 ? "lazy" : "eager"}
+              priority={index < 4}
               src={image.href}
+              fill={true}
               alt={
                 "A photo captured from the webcam at the time the audio was recorded"
               }
